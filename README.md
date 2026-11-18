@@ -31,8 +31,8 @@ BoostLab — это «лаборатория роста». Мы относимс
 
 ## Реклама в Интернет
 
-- [ЛР 1. Профайл аудитории и карты информационных потребностей](advertising/lr01-audience-profile.docx)
-- [ЛР 2. Креативные методики создания идеи для текста](advertising/lr02-content-ideas.docx)
+- [ЛР 1. Профайл аудитории и карты информационных потребностей](advertising/lr01-audience-profile.md) · [DOCX](advertising/lr01-audience-profile.docx)
+- [ЛР 2. Креативные методики создания идеи для текста](advertising/lr02-content-ideas.md) · [DOCX](advertising/lr02-content-ideas.docx)
 
 ## Структура репозитория
 
@@ -40,7 +40,7 @@ BoostLab — это «лаборатория роста». Мы относимс
 BoostLab/
 ├── README.md            — описание студии
 ├── logo.svg             — логотип (SVG)
-├── advertising/         — лабораторные работы по рекламе в интернете (DOCX)
+├── advertising/         — лабораторные работы по рекламе в интернете (Markdown и DOCX)
 ├── lr/                  — лабораторные работы по веб-райтингу
 │   ├── lr1-logo.md
 │   ├── lr2-slogan.md
