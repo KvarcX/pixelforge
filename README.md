@@ -33,6 +33,7 @@ BoostLab — это «лаборатория роста». Мы относимс
 
 - [ЛР 1. Профайл аудитории и карты информационных потребностей](advertising/lr01-audience-profile.md) · [DOCX](advertising/lr01-audience-profile.docx)
 - [ЛР 2. Креативные методики создания идеи для текста](advertising/lr02-content-ideas.md) · [DOCX](advertising/lr02-content-ideas.docx)
+- [ЛР 3. Логическое развитие текста. Скользкая горка и триггеры](advertising/lr03-slippery-slide.md) · [DOCX](advertising/lr03-slippery-slide.docx)
 
 ## Структура репозитория
 
