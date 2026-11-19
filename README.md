@@ -34,6 +34,18 @@ BoostLab — это «лаборатория роста». Мы относимс
 - [ЛР 1. Профайл аудитории и карты информационных потребностей](advertising/lr01-audience-profile.md) · [DOCX](advertising/lr01-audience-profile.docx)
 - [ЛР 2. Креативные методики создания идеи для текста](advertising/lr02-content-ideas.md) · [DOCX](advertising/lr02-content-ideas.docx)
 - [ЛР 3. Логическое развитие текста. Скользкая горка и триггеры](advertising/lr03-slippery-slide.md) · [DOCX](advertising/lr03-slippery-slide.docx)
+- [ЛР 4. Основы сторителлинга](advertising/lr04-storytelling.md) · [DOCX](advertising/lr04-storytelling.docx)
+- [ЛР 5. Бизнес-сторителлинг](advertising/lr05-business-story.md) · [DOCX](advertising/lr05-business-story.docx)
+- [ЛР 6. Контент-план](advertising/lr06-content-plan.md) · [DOCX](advertising/lr06-content-plan.docx)
+- [ЛР 7. Вовлекающий контент](advertising/lr07-engaging-content.md) · [DOCX](advertising/lr07-engaging-content.docx)
+- [ЛР 8. Таргетированная реклама](advertising/lr08-targeted-ads.md) · [DOCX](advertising/lr08-targeted-ads.docx)
+- [ЛР 9. Сериалы и подкасты](advertising/lr09-series-podcasts.md) · [DOCX](advertising/lr09-series-podcasts.docx)
+- [ЛР 10. SEO-текст](advertising/lr10-seo-copy.md) · [DOCX](advertising/lr10-seo-copy.docx)
+- [ЛР 11. Канал в Дзене](advertising/lr11-dzen.md) · [DOCX](advertising/lr11-dzen.docx)
+- [ЛР 12. Email-рассылка](advertising/lr12-email.md) · [DOCX](advertising/lr12-email.docx)
+- [ЛР 13. Рекламные баннеры](advertising/lr13-banners.md) · [DOCX](advertising/lr13-banners.docx)
+- [ЛР 14. Чат-бот, квиз и конкурс](advertising/lr14-interactive.md) · [DOCX](advertising/lr14-interactive.docx)
+- [Зачётное задание. Рекламная стратегия BoostLab](advertising/final-advertising-strategy.md) · [DOCX](advertising/final-advertising-strategy.docx)
 
 ## Структура репозитория
 
