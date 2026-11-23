@@ -45,7 +45,9 @@ BoostLab — это «лаборатория роста». Мы относимс
 - [ЛР 12. Email-рассылка](advertising/lr12-email.md) · [DOCX](advertising/lr12-email.docx)
 - [ЛР 13. Рекламные баннеры](advertising/lr13-banners.md) · [DOCX](advertising/lr13-banners.docx)
 - [ЛР 14. Чат-бот, квиз и конкурс](advertising/lr14-interactive.md) · [DOCX](advertising/lr14-interactive.docx)
-- [Зачётное задание. Рекламная стратегия BoostLab](advertising/final-advertising-strategy.md) · [DOCX](advertising/final-advertising-strategy.docx)
+- [Работа 15. Задание 15.3 на зачёт: рекламная стратегия BoostLab](advertising/final-advertising-strategy.md) · [DOCX](advertising/final-advertising-strategy.docx)
+
+[Правила оформления](advertising/Правила%20оформления.md) · [Исходный образец титульного листа](advertising/титульник.docx)
 
 ## Структура репозитория
 
